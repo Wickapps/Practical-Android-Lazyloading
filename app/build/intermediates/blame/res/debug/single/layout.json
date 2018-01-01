@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\Lazyloading1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_grid.xml",
+        "source": "D:\\AndroidStudioProjects\\Lazyloading1\\app\\src\\main\\res\\layout\\activity_main_grid.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Lazyloading1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_spinner_item.xml",
+        "source": "D:\\AndroidStudioProjects\\Lazyloading1\\app\\src\\main\\res\\layout\\simple_spinner_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Lazyloading\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gal_item.xml",
+        "source": "D:\\AndroidStudioProjects\\Lazyloading\\app\\src\\main\\res\\layout\\gal_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Lazyloading\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_spinner_dropdown_item.xml",
+        "source": "D:\\AndroidStudioProjects\\Lazyloading\\app\\src\\main\\res\\layout\\simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Lazyloading1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "D:\\AndroidStudioProjects\\Lazyloading1\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Lazyloading1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_gallery.xml",
+        "source": "D:\\AndroidStudioProjects\\Lazyloading1\\app\\src\\main\\res\\layout\\activity_main_gallery.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Lazyloading1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gal_item.xml",
+        "source": "D:\\AndroidStudioProjects\\Lazyloading1\\app\\src\\main\\res\\layout\\gal_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Lazyloading\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_gallery.xml",
+        "source": "D:\\AndroidStudioProjects\\Lazyloading\\app\\src\\main\\res\\layout\\activity_main_gallery.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Lazyloading1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_list.xml",
+        "source": "D:\\AndroidStudioProjects\\Lazyloading1\\app\\src\\main\\res\\layout\\activity_main_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Lazyloading\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_item.xml",
+        "source": "D:\\AndroidStudioProjects\\Lazyloading\\app\\src\\main\\res\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Lazyloading\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_grid.xml",
+        "source": "D:\\AndroidStudioProjects\\Lazyloading\\app\\src\\main\\res\\layout\\activity_main_grid.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Lazyloading\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_list.xml",
+        "source": "D:\\AndroidStudioProjects\\Lazyloading\\app\\src\\main\\res\\layout\\activity_main_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Lazyloading1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_spinner_dropdown_item.xml",
+        "source": "D:\\AndroidStudioProjects\\Lazyloading1\\app\\src\\main\\res\\layout\\simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Lazyloading\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_spinner_item.xml",
+        "source": "D:\\AndroidStudioProjects\\Lazyloading\\app\\src\\main\\res\\layout\\simple_spinner_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Lazyloading\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "D:\\AndroidStudioProjects\\Lazyloading\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Lazyloading1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_item.xml",
+        "source": "D:\\AndroidStudioProjects\\Lazyloading1\\app\\src\\main\\res\\layout\\grid_item.xml"
+    }
+]
